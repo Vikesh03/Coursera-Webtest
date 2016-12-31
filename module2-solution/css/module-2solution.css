@@ -61,7 +61,7 @@ h1 {
   .col-dg-1, .col-dg-2, .col-dg-3, .col-dg-4, .col-dg-5, .col-dg-6, .col-dg-7, .col-dg-8, .col-dg-9, .col-dg-10, .col-dg-11, .col-dg-12 {   
     
     float: left;
-    margin:50px 30px 30px 50px;
+    margin:50px 30px 30px 45px;
     border: 1px solid black;
   }
   .col-dg-1 {
@@ -146,7 +146,7 @@ h1 {
   }
 }
 /********** Break point for mobile **********/
-@media (max-width: 797px) {
+@media (max-width: 767px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
     margin: 30px;
